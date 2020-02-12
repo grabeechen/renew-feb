@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true
+  },
+  "include": [
+    "./client/**/*"
+  ],
+  "exclude": [
+    "./server/public",
+    "./node_modules"
+  ]
+}
